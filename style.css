@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-image: url("https://i.imgur.com/IS70c9w.jpg");
+    
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    color: white;
+    
+  }
+  
+  .container {
+  border: 1px solid grey;
+  padding: 10px;
+  text-align: center;
+  }
